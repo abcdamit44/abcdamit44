@@ -5,7 +5,8 @@
 Building scalable SaaS platforms, AI-powered applications, and modern web experiences using **Next.js, NestJS, PostgreSQL, TypeScript, and LLMs**.
 
 📍 Bhubaneswar, India
-🌍 Available for Remote Opportunities (US • Europe • Canada)
+💼 Full-Stack Developer | AI Integration Specialist
+🚀 Building AI-powered SaaS applications
 
 ---
 
